@@ -1,0 +1,13 @@
+venv/
+.venv/
+data/
+models_output/
+models/
+videos UFPE (V-LIBRASIL)/
+__pycache__/
+*.pyc
+*.npy
+*.pt
+*.task
+*.mp4
+.ipynb_checkpoints/
